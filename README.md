@@ -1,3 +1,4 @@
+# CREDITS
 GrafxKid - platformer assets (CC0)
     https://opengameart.org/content/arcade-platformer-assets
 
